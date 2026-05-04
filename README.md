@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f8a4e&height=120&section=header" width="100%"/>
 
+<img src="https://ik.imagekit.io/0o9mjii4q/image_j8hYXMlXQ.jpg?updatedAt=1777918333854" width="130" style="border-radius:50%;border:3px solid #0f8a4e;" />
+
 # Hi there, I'm Mirza Tanvir Sadik 👋
 
 **Aspiring Full Stack Developer · React & Node.js Enthusiast**
